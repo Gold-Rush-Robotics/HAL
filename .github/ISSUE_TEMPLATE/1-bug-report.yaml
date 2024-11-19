@@ -34,6 +34,8 @@ body:
         - High (blocking major development)
         - Medium
         - Low
+    validations:
+      required: true
   - type: textarea
     id: misc
     attributes:
